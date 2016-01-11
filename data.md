@@ -1,7 +1,9 @@
 #Week 1 Times
 
-* Monday: 	7:18 - 7:45 (27 minutes)
-* Tuesday:	
-* Wednesday:	
-* Thursday:	
-* Friday: 	
+|   Day   |          Morning         | Evening |
+|---------|--------------------------|---------|
+|Monday   | 7:18 - 7:45 (27 Minutes) |         |
+|Tuesday  |                          |         |
+|Wednesday|                          |         |
+|Thursday |                          |         |
+|Friday   |                          |         |
