@@ -13,7 +13,7 @@
 |   Day   	|          Morning         |           Evening 		  		|			Notes				|
 |-----------|--------------------------|--------------------------------|-------------------------------|
 |  Monday   | 7:18 - 7:48 (30 Minutes) |	 							| AM: Stranded lorry Northbound	|
-|  Tuesday  |	|			|								|
-| Wednesday	|   |			| 								|
-| Thursday 	|   |			|	AM: Accident M1 Northbound	|
-|  Friday   |   |			|								|
+|  Tuesday  ||||
+| Wednesday	||||
+| Thursday 	||||
+|  Friday   ||||
