@@ -12,8 +12,8 @@
 
 |   Day   	|          Morning         |           Evening 		  		|			Notes				|
 |-----------|--------------------------|--------------------------------|-------------------------------|
-|  Monday   | 7:18 - 7:48 (30 Minutes) |	 							| AM: Stranded lorry Northbound	|
-|  Tuesday  ||||
+|  Monday   | 7:18 - 7:48 (30 Minutes) |	16:10 - 16:40 (30 minutes)	| AM: Stranded lorry Northbound	|
+|  Tuesday  | 7:01 - 7:23 (22 minutes) |||
 | Wednesday	||||
 | Thursday 	||||
 |  Friday   ||||
